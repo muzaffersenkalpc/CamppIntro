@@ -1,0 +1,15 @@
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\bin\Debug\net6.0\GenericsIntro1.exe
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\bin\Debug\net6.0\GenericsIntro1.deps.json
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\bin\Debug\net6.0\GenericsIntro1.runtimeconfig.json
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\bin\Debug\net6.0\GenericsIntro1.dll
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\bin\Debug\net6.0\GenericsIntro1.pdb
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\obj\Debug\net6.0\GenericsIntro1.csproj.AssemblyReference.cache
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\obj\Debug\net6.0\GenericsIntro1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\obj\Debug\net6.0\GenericsIntro1.AssemblyInfoInputs.cache
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\obj\Debug\net6.0\GenericsIntro1.AssemblyInfo.cs
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\obj\Debug\net6.0\GenericsIntro1.csproj.CoreCompileInputs.cache
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\obj\Debug\net6.0\GenericsIntro1.dll
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\obj\Debug\net6.0\refint\GenericsIntro1.dll
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\obj\Debug\net6.0\GenericsIntro1.pdb
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\obj\Debug\net6.0\GenericsIntro1.genruntimeconfig.cache
+C:\Users\muzaf\source\repos\CamppIntro\GenericsIntro1\obj\Debug\net6.0\ref\GenericsIntro1.dll
